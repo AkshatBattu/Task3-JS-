@@ -1,0 +1,176 @@
+.main{
+    margin: 0;
+    padding: 0;
+}
+.create{
+    margin-top: 30px;
+    margin-right: 73%;
+    color: #494949;
+    font-weight: 600;
+    font-size: 19px;
+
+}
+.user input{
+    padding: 16px;
+    width: 83%;
+    border: 1px solid#d7d7d7;
+    margin-top: 19px;
+    border-radius: 7px;
+    font-size: medium;
+    margin-left: 2%;
+}
+.from{
+   display: flex;
+}
+.from h1{
+    font-size: larger;
+    margin-left: 8.5%;
+    color: #494949;
+    font-weight: 500;
+    margin-top: 5%;
+}
+.from h2{
+    margin-left: 48%;
+    font-size: larger;
+    color: #494949;
+    font-weight: 600;
+    margin-top: 5%;
+}     
+.fro{
+    display: inline-flex;
+}
+.fro input{
+    padding: 18px;
+    margin-left: -136%;
+    border: 1px solid#d7d7d7;
+    width: 82%;
+    border-radius: 6px;
+}
+.to{
+    margin-top: -7%;
+}
+.to input{
+    padding: 19px;
+    margin-left: 270%;
+    border: 1px solid#d7d7d7;
+    width: 160%;
+    margin-top: 14%;
+}
+.check{
+    margin-left: 21%;
+    margin-top: 3%;
+}
+.degree{
+    font-size: larger;
+    margin-left: -77%;
+    color: #494949;
+    font-weight: 500;
+    margin-top: 4%;
+}
+.deg input{
+    padding: 16px;
+    width: 83%;
+    border: 1px solid#d7d7d7;
+    margin-top: 19px;
+    border-radius: 7px;
+    font-size: medium;
+    margin-left: 2%;
+}
+.field h3{
+    font-size: larger;
+    margin-left: -74%;
+    color: #494949;
+    font-weight: 500;
+    margin-top: 5%;
+
+}
+.field input{
+    padding: 16px;
+    width: 35%;
+    border: 1px solid#d7d7d7;
+    margin-top: -2px; 
+    border-radius: 7px;
+    font-size: medium;
+    margin-left: -46%;
+
+}
+.grade h4{
+    margin-top: -7%;
+    font-weight: 500;
+    margin-left: 18%;
+    font-size: larger;
+    color: #494949;
+    
+}
+.grade{
+    margin-top: -10%;
+}
+.grade input{
+    margin-left: 43%;
+    padding: 16px;
+    margin-top: -0.5%;
+    width: 28%;
+    border-radius: 9px;
+    border: 1px solid #d7d7d7;
+}
+.Hobbies h5{
+    font-size: larger;
+    margin-left: -77%;
+    color: #494949;
+    font-weight: 500;
+}
+.Hobbies option.lable{
+    padding: 16px;
+    width: 83%;
+    border: 1px solid#d7d7d7;
+    margin-top: -4px;
+    border-radius: 7px;
+    font-size: medium;
+    margin-left: 7%;
+        
+}
+.des{
+    font-size: larger;
+    margin-left: -75%;
+    color: #494949;
+    font-weight: 500;
+    margin-top: 4%;
+}
+.color{
+    margin-right: 61%;
+    color: #494949;
+    font-weight: 400;
+
+}
+.color h6{
+    display: contents;
+    color: #0040ff;
+    font-size: 12px;
+}
+.color textarea{
+    margin-left: 22%;
+    margin-top: 5%;
+}
+.btn{
+    padding: 15px;
+    width: 15%;
+    font-size: 20px;
+    font-weight: 600;
+    border-radius: 17px;
+    background: white;
+    border-color: #d7d7d7;
+    margin-right: -62%;
+    margin-top: 14%;
+
+}
+.but{
+    padding: 15px;
+    width: 15%;
+    font-size: 20px;
+    font-weight: 600;
+    border-radius: 17px;
+    background: white;
+    border-color: #d7d7d7;
+    margin-top: 14%;
+    margin-left: 64%;
+}
